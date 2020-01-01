@@ -25,4 +25,5 @@ while array[counter] do
   result= array[counter] if array[counter] < result
   counter += 1
 end
-return resultend
+return result
+end
